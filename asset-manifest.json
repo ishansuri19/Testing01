@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/junoon/static/css/main.976afb0f.css",
+    "main.js": "/junoon/static/js/main.360c7d8a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/junoon/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/junoon/index.html",
+    "main.976afb0f.css.map": "/junoon/static/css/main.976afb0f.css.map",
+    "main.360c7d8a.js.map": "/junoon/static/js/main.360c7d8a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/junoon/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.976afb0f.css",
+    "static/js/main.360c7d8a.js"
+  ]
+}
